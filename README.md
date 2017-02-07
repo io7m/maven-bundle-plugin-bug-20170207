@@ -1,4 +1,5 @@
 https://issues.apache.org/jira/browse/FELIX-5527
+https://travis-ci.org/io7m/maven-bundle-plugin-bug-20170207
 
 ```
 [INFO] Scanning for projects...
